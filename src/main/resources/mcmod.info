@@ -1,0 +1,15 @@
+[
+{
+  "modid": "npcunlimitedattack",
+  "name": "NPC Unlimited Attack",
+  "description": "NPC Unlimited Attack",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CaIon"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
