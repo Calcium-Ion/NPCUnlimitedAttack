@@ -58,6 +58,7 @@ minecraft {
 dependencies {
     minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2860'
     compile files('/data/develop/libs/poke8.4.3.jar')
+    compile files('/data/develop/libs/sponge7.1.jar')
 }
 
 // Example for how to get properties into the manifest for reading by the runtime..
